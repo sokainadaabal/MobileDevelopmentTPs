@@ -2,8 +2,6 @@
 > Une application Android d’une calculatrice scientifique de base
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-<<<<<<< HEAD
-=======
 ![version: 1.0.1](https://img.shields.io/badge/version-1.0.1-blue)
 ![appcompat: 1.6.1](https://img.shields.io/badge/appcompat-1.6.1-green)
 ![constraintlayout: 2.1.4](https://img.shields.io/badge/constraintlayout-2.1.4-red)

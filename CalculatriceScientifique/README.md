@@ -67,5 +67,4 @@ Nous apprécions beaucoup votre contribution
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
->>>>>>> a556052cfc353e3db46c60a55ac8bd65806536c4
 

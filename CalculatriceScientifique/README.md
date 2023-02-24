@@ -25,7 +25,7 @@
   </td>
     <td>
      <picture>
-   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_041551.png">
+   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_042228.png">
 </picture>
     </td>
   </tr>
@@ -39,43 +39,61 @@
   <tr>
     <td>
      <picture>
-   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_041551.png">
+   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_042526.png">
 </picture>
-    </td>
     </td>
     <td>
      <picture>
-   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_041551.png">
+   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_042554.png">
 </picture>
-    </td></td>
+    </td>
     <td>
      <picture>
-   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_041551.png">
+   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_042634.png">
 </picture>
     </td></td>
   </tr>
 </table>
 <table>
 <tr>
-    <th>Mode Protrait - Exemple</th>
-    <th>Mode Landscape - Exemple</th>
+    <th>Mode Protrait</th>
+    <th>Exemple</th>
   </tr>
   <tr>
     <td>
      <picture>
-   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_041551.png">
+   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_042750.png">
 </picture>
     </td>
     </td>
     <td>
      <picture>
-   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_041551.png">
+   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_042806.png">
 </picture>
     </td>
     </td>
   </tr>
 </table>
-
+<table>
+<tr>
+    <th>Mode Landscape</th>
+    <th>Exemple</th>
+  </tr>
+  <tr>
+    <td>
+     <picture>
+   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_042709.png">
+</picture>
+    </td>
+    </td>
+    <td>
+     <picture>
+   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_042722.png">
+</picture>
+    </td>
+    </td>
+  </tr>
+</table>
 # Contribuer au projet
 
 <p style="justify">Les contributions sont ce qui fait de la communauté open source un excellent lieu d'apprentissage, d'inspiration et de création. </p>

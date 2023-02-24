@@ -20,7 +20,7 @@
   <tr>
     <td>
  <picture>
-   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/edit/main/CalculatriceScientifique/Captures/Portrait.png">
+   <img alt=":ode Portait." src="CalculatriceScientifique/app/Captures/Portrait.png">
 </picture>
   </td>
     <td></td>

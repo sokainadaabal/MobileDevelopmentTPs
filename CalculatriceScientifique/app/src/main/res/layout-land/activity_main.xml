@@ -135,7 +135,7 @@
                         android:layout_marginLeft="12sp"
                         android:backgroundTint="@android:color/holo_purple"
                         android:onClick="click"
-                        android:text="pi"
+                        android:text="π"
                         android:textSize="30sp"
                         app:cornerRadius="15sp" />
 

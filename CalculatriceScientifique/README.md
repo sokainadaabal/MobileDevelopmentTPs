@@ -20,11 +20,14 @@
   <tr>
     <td>
  <picture>
-   <img alt=":ode Portait." src="CalculatriceScientifique/Captures/Screenshot_20230224_041551.png">
+   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_041551.png">
 </picture>
   </td>
-    <td></td>
-
+    <td>
+     <picture>
+   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_041551.png">
+</picture>
+    </td>
   </tr>
 </table>
 <table>
@@ -34,9 +37,22 @@
     <th>Erreur de syntax</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>
+     <picture>
+   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_041551.png">
+</picture>
+    </td>
+    </td>
+    <td>
+     <picture>
+   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_041551.png">
+</picture>
+    </td></td>
+    <td>
+     <picture>
+   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_041551.png">
+</picture>
+    </td></td>
   </tr>
 </table>
 <table>
@@ -45,8 +61,18 @@
     <th>Mode Landscape - Exemple</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>
+     <picture>
+   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_041551.png">
+</picture>
+    </td>
+    </td>
+    <td>
+     <picture>
+   <img alt=":ode Portait." src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/CalculatriceScientifique/Captures/Screenshot_20230224_041551.png">
+</picture>
+    </td>
+    </td>
   </tr>
 </table>
 

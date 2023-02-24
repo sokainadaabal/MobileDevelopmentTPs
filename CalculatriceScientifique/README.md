@@ -94,6 +94,7 @@
     </td>
   </tr>
 </table>
+
 # Contribuer au projet
 
 <p style="justify">Les contributions sont ce qui fait de la communauté open source un excellent lieu d'apprentissage, d'inspiration et de création. </p>

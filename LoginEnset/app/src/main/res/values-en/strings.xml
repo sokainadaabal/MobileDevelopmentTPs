@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Enset chat</string>
+    <string name="logo" translatable="false">Enset Chat</string>
+    <string name="slogan">Stay in contact with the school.</string>
+    <string name="textLogin">Hello, welcome back</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="button">Login</string>
+    <string name="bienvenue">Welcome to Enset Chat</string>
+    <string name="deconnect">Logout</string>
+    <string name="accountInformation">Account information</string>
+    <string name="fill_in">Please fill in all fields correctly!</string>
+
+</resources>

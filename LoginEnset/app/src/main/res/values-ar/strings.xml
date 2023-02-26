@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Enset chat</string>
+    <string name="logo" translatable="false">Enset Chat</string>
+    <string name="slogan">إبقى متصلا بمدرستك.</string>
+    <string name="textLogin">مرحبا , بعودتك مجددا</string>
+    <string name="username">إسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="button">الدخول</string>
+    <string name="bienvenue">مرحبا بك  Enset Chat</string>
+    <string name="deconnect">الخروج</string>
+    <string name="accountInformation">معلومات الحساب</string>
+    <string name="fill_in">الرجاء إكمال جميع الحقول بشكل صحيح</string>
+</resources>

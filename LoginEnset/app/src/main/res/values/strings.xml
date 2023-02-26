@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Enset chat</string>
+    <string name="logo">Enset Chat</string>
+    <string name="slogan">Tenez-vous en contact avec votre école.</string>
+    <string name="textLogin">Bonjour, bonne reprise</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="button">S\'identifier</string>
+    <string name="bienvenue">Bienvenue chez Enset Chat</string>
+    <string name="deconnect">Déconnecter</string>
+    <string name="accountInformation">Les informations du compte</string>
+    <string name="fill_in">Veuillez remplir tous les champs correctement !</string>
+</resources>

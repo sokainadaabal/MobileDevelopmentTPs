@@ -288,6 +288,7 @@
                         android:layout_height="wrap_content"
                         android:isScrollContainer="true"
                         android:onClick="Equals"
+                        style="@style/Widget.Material3.Button"
                         android:text="="
                         android:textColor="#FFF"
                         android:textSize="30sp"

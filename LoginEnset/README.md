@@ -17,11 +17,12 @@ https://user-images.githubusercontent.com/48890714/222481059-58936fe7-2448-4c45-
 
 ## Les interfaces de L'application 
 
-| Interfaces | l’écran d’accueil ( Splash Screen ) |  Authentification | Information de compte |
-|------------|-------------------------------------|-------------------|-----------------------| 
-|  AR |![Image](https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface1-ar%20.png)|![Image](https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface2-ar%20.png)|![Image](https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface3-ar%20.png)|
-|  FR |![Image](https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface1-fr%20.png)|![Image](https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface2-fr%20.png)|![Image](https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface3-fr%20.png)|
-|  EN |![Image](https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface1-en%20.png)|![Image](https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface2-en%20.png)|![Image](https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface3-en%20.png)|
+| Interfaces  | l’écran d’accueil ( Splash Screen )                                                                                       | Authentification                                                                                                       | Information de compte                                                                                                  |
+|-------------|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| AR          | ![Image](https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface1-ar%20.png)    | ![Image](https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface2-ar%20.png) | ![Image](https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface3-ar%20.png) |
+| FR          | ![Image](https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface1-fr%20.png)    | ![Image](https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface2-fr%20.png) | ![Image](https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface3-fr%20.png) |
+| EN          | ![Image](https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface1-en%20.png)    | ![Image](https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface2-en%20.png) | ![Image](https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface3-en%20.png) |
+
 
 ## La réalisation 
 
@@ -302,7 +303,7 @@ Pour réaliser cette application, nous avons conçu trois interfaces :
   - Pour but de naviger entre les activités , passer des parametre d'une activité à une autre et écoyuter et réagir à des invénents extérieurs à l'application on va utilise des Intents.
    
     ```java
-       Intent i = new Intent(getApplicationContext(), NouvelleActivity.class);
+       Intent i = new Intent(MainActivity.this,LoginActivity.class);
        startActivity(i);
     ```
     > :warning: **Chaque nouvelle activite doit declarer dans manifest.xml**

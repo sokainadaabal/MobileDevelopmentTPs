@@ -35,30 +35,22 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_ALT_FOCUSABLE_IM,WindowManager.LayoutParams.FLAG_ALT_FOCUSABLE_IM);
         setContentView(R.layout.activity_main);
-
         Log.e(TAG,"OnCreate vient  d'être appelée!");
         Toast.makeText(this,"OnCreate vient  d'être appelée!",Toast.LENGTH_SHORT).show();
-
         //Animations
-
         toAnim = AnimationUtils.loadAnimation(this,R.anim.top_animation);
         bottomAnim=AnimationUtils.loadAnimation(this,R.anim.bottom_annimation);
-
         // hooks
         image = findViewById(R.id.image);
         logo = findViewById(R.id.logo);
         slogan = findViewById(R.id.slogan);
-
         image.setAnimation(toAnim);
         logo.setAnimation(bottomAnim);
         slogan.setAnimation(bottomAnim);
 
-
         new Handler().postDelayed(()->{
-
                 //  This methode will  be executed one the timer is over
                 // start your app  login activity
-
                 Intent i = new Intent(MainActivity.this,LoginActivity.class);
                 //startActivity(i);
                 // close this Activity you can use function  finish
@@ -67,9 +59,7 @@ public class MainActivity extends AppCompatActivity {
                 pairs[1]=new Pair<View,String>(logo,"logo_text");
                 ActivityOptions options = ActivityOptions.makeSceneTransitionAnimation(MainActivity.this,pairs);
                 startActivity(i,options.toBundle());
-
         }, SPLASH_TIME_OUT);
-
     }
     @Override
     protected void onStart() {

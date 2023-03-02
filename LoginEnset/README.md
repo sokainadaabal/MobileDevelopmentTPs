@@ -338,7 +338,7 @@ Pour réaliser cette application, nous avons conçu trois interfaces :
   
    > :warning: **Pour tester, vous n'avez qu'à modifier la langue de votre téléphone.**
   
-### V. Utlissation de classe Toast  pour connaitre cycle de vie de
+### V. Utlissation de classe Toast  pour connaitre cycle de vie de l'application.
   
  - Une fenêtre de dialogue qui affiche un message pendant 2 (Toast.LENGTH_SHORT) ou 5 (Toast.LENGTH_LONG) secondes est un composant graphique Android
  - On le construit et on l'affiche avec le code.

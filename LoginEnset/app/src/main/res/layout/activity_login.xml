@@ -47,7 +47,7 @@
                 android:layout_gravity="center"
                 android:layout_marginBottom="20sp"
                 android:backgroundTint="@color/white"
-                android:focusableInTouchMode="true"
+                android:singleLine="true"
                 android:textColor="@color/MycalorforApp" />
 
         </com.google.android.material.textfield.TextInputLayout>

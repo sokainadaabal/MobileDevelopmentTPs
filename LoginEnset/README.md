@@ -192,7 +192,7 @@ Pour réaliser cette application, nous avons conçu trois interfaces :
   
   Cette interface contient une image, du texte, des infos utilisateur et un bouton à déconnecter.
   
-  <img src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface3-fr%20.png" style=" height:500px; text-align:center"/>
+  <img src="https://github.com/sokainadaabal/MobileDevelopmentTPs/blob/main/LoginEnset/app/Captures/Interface3-fr.png" style=" height:500px; text-align:center"/>
   
   > :warning: **Toutes les valeurs textuelles sont stockées dans le fichier res > values > strings.xml.** 
   

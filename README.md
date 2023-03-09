@@ -11,3 +11,4 @@
 ### Login (Splash screen, Navigation entre les écrans, Internationalisation et animations)
 
 [Repository](https://github.com/sokainadaabal/MobileDevelopmentTPs/tree/main/LoginEnset)
+###  Preference Screen Setting

@@ -12,3 +12,8 @@
 
 [Repository](https://github.com/sokainadaabal/MobileDevelopmentTPs/tree/main/LoginEnset)
 ###  Preference Screen Setting
+
+[Repository](https://github.com/sokainadaabal/MobileDevelopmentTPs/tree/main/PreferencesScreenSettings)
+### Shared Preferences
+
+[Repository](https://github.com/sokainadaabal/MobileDevelopmentTPs/tree/main/SharedPreferences)

@@ -9,7 +9,8 @@
 ![version: 1.0.1](https://img.shields.io/badge/version-1.0.1-blue)
 ![appcompat: 1.6.1](https://img.shields.io/badge/appcompat-1.6.1-green)
 ![constraintlayout: 2.1.4](https://img.shields.io/badge/constraintlayout-2.1.4-red)
-# Demo
+# Démenstartion
+Cette vidéo présente l'exécution de mon application avec l'émulateur Nexus 6 API 32.
 
 https://user-images.githubusercontent.com/48890714/224146193-459a0766-6b67-4447-87b9-4186607c0380.mp4
 

@@ -59,6 +59,8 @@ Par la suite j'ai ajouter ceci ` fragment ` à mon activity `Settings`:
         getFragmentManager().beginTransaction().replace(android.R.id.content,new MySettingsfragment()).commit();
     }
 ```
+> :warning: **Si vous ne finissez pas par commit, dès que votre activité n’est plus active, vos préférences seront oubliées par l’objet sharedPreference.**
+
 Pour lier la transaction entre `MainActivity` et `Setting` j'ai ajouter ce code : 
 ``` java
     @Override

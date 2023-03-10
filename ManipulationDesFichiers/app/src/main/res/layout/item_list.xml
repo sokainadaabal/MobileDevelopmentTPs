@@ -12,7 +12,7 @@
         android:layout_margin="10dp"
         android:measureAllChildren="false"
         app:cardBackgroundColor="@color/white"
-        app:cardCornerRadius="20dp"
+        app:cardCornerRadius="0dp"
         tools:layout_editor_absoluteX="12dp"
         tools:layout_editor_absoluteY="53dp">
 

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="dialog_message">Vous voulez supprimer ce contact</string>
+    <string name="dialog_title">Supprimer Un contact</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="job">Job</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone number</string>
+</resources>

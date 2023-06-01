@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AppExamen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/yellow</item>
+        <item name="colorPrimaryVariant">@color/MycalorforApp</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+    <style name="Theme.App.Starting.Login" parent="Theme.AppExamen">
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+    <style name="addBtn">
+        <item name="android:radius">100dp</item>
+    </style>
+    <style name="CardViewStyle">
+        <item name="android:layout_margin">5dip</item>
+        <item name="cardCornerRadius">50dp</item>
+        <item name="cardElevation">4dp</item>
+    </style>
+</resources>

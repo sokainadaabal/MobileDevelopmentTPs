@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nom Pays"
+        app:startIconDrawable="@android:drawable/ic_menu_agenda">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20sp"
+            android:backgroundTint="@color/white"
+            android:singleLine="true"
+            android:textColor="@color/black" />
+    </com.google.android.material.textfield.TextInputLayout>
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/edit_text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nombre d'habitants"
+        app:startIconDrawable="?attr/actionModePasteDrawable">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20sp"
+            android:backgroundTint="@color/white"
+            android:singleLine="true"
+            android:textColor="@color/black" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/edit_text2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nom de la capitale"
+        app:startIconDrawable="?attr/actionModeCopyDrawable">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20sp"
+            android:backgroundTint="@color/white"
+            android:singleLine="true"
+            android:textColor="@color/black" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="8dp">
+
+        <Button
+            android:id="@+id/bt_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:background="@color/yellow"
+            android:text="Ajouter"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:cornerRadius="40sp"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColorHint="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:cornerRadius="40sp"
+            android:id="@+id/bt_reset"
+            android:layout_weight="1"
+            android:background="@color/yellow"
+            android:text="Reset"
+
+       />
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        tools:ignore="MissingConstraints"
+        android:layout_marginTop="8dp"
+        tools:listitem="@layout/list_row_main"></androidx.recyclerview.widget.RecyclerView>
+
+</LinearLayout>

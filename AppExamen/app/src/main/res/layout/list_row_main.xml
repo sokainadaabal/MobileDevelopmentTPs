@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_margin="5dp"
+android:backgroundTint="@color/white"
+android:measureAllChildren="false"
+app:cardBackgroundColor="@color/white"
+app:cardCornerRadius="25dp"
+tools:layout_editor_absoluteX="10dp">
+
+<LinearLayout
+    android:layout_width="350dp"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+    <LinearLayout
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:layout_margin="15dp"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/text_view"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:text="TextView"
+            android:textColor="@color/text1"
+            android:textSize="28dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/text_view1"
+            android:layout_width="match_parent"
+            android:layout_height="32dp"
+            android:textColor="@color/text2"
+            android:text="TextView"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold|italic" />
+        <TextView
+            android:id="@+id/text_view2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textSize="18dp"
+            android:textColor="@color/text3"
+            android:textStyle="bold" />
+    </LinearLayout>>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginStart="90dp"
+        android:gravity="center|center_vertical|end"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/bt_edit"
+            style="@style/addBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_edit"></ImageView>
+
+        <ImageView
+            android:id="@+id/bt_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/addBtn"
+            android:src="@drawable/ic_delete"></ImageView>
+    </LinearLayout>
+</LinearLayout>
+</androidx.cardview.widget.CardView>
